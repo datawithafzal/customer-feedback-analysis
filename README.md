@@ -1,6 +1,6 @@
 # Customer Feedback Analysis: Estates & Facilities
 
-Analysis of customer satisfaction feedback for a university Estates & Facilities team, prepared as part of a **Data and Customer Insight Officer** interview task.
+Analysis of customer satisfaction feedback for a university Estates & Facilities team.
 
 **Author:** Mohammed Afzal
 **Date:** June 2024
