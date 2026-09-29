@@ -13,9 +13,8 @@ The goal was to understand how satisfied customers are with work carried out by 
 
 | File | Description |
 |------|-------------|
-| `Customer_feedback_data.xlsx` | Mock survey responses (work location, type of work, satisfaction, commitment rating, free-text feedback, likelihood to recommend) |
+| `Customer_feedback_data.xlsx` | Survey responses (work location, type of work, satisfaction, commitment rating, free-text feedback, likelihood to recommend) |
 | `Customer_satisfaction_presentation.pptx` | Presentation of the data, insights and recommendations |
-| `README.md` | This file |
 
 ## About the data
 
